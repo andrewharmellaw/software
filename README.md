@@ -1,11 +1,12 @@
 # Things I Set First
-  1. Import my public and private keys
+  1. [Import my public and private SSH keys](https://www.debuntu.org/how-to-importexport-gpg-key-pair/)
   1. Set Dark top bar (Mac)
   1. Set Date-Time display (Mac)
   1. Auto-hide programs bar (Mac)
-  1. Add 2 more screens (Mac)
-  1. Caret-speed (Mac)
+  1. Add 2 more Desktops (Mac) - Three-finger swipe up and click the "+"
+  1. Increase the caret-speed (Mac)
   1. Flux.io / Mac-equivalent
+  1. Set different pictures for each desktop
 
 # Software
 Stuff I put on my laptop
@@ -32,6 +33,8 @@ Stuff I put on my laptop
       1. [Enable Agnoster theme](https://github.com/robbyrussell/oh-my-zsh)
           1. Requires [Power-line patched fonts be installed](https://github.com/powerline/fonts)
           1. And your iTerm profile set up to use 12 point Menlo LG S Regular for Powerline (for both Font and non-ASCII Font)
+  1. [GPGSuite](https://gpgtools.org/)
+      1. Import my public and private GPG keys
   1. [Evernote](https://evernote.com/download/)
       1. Enable access for this computer
       1. Sync
