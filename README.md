@@ -20,7 +20,7 @@ Stuff I put on my laptop
       1. Cakebrew - 'brew cask install cakebrew'
       1. git
           1. Set aliases (TBC)
-      1. Java JDK - ''
+      1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
       1. gradle
       1. maven
   1. [Alfred](https://www.alfredapp.com/) (Mac)
