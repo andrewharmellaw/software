@@ -1,5 +1,6 @@
 # Things I Set First
   1. [Import my public and private SSH keys](https://www.debuntu.org/how-to-importexport-gpg-key-pair/)
+      1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
   1. Set Dark top bar (Mac)
   1. Set Date-Time display (Mac)
   1. Auto-hide programs bar (Mac)
@@ -19,7 +20,7 @@ Stuff I put on my laptop
   1. Brew (Mac) - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
       1. Cakebrew - `brew cask install cakebrew`
       1. git
-          1. Set aliases (TBC)
+          1. Set aliases by taking the .gitignore in this repo
       1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
       1. gradle
       1. maven
