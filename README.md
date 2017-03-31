@@ -16,8 +16,8 @@ Stuff I put on my laptop
       1. Enable diasble Extensions as appropriate
       1. Make Chrome the default browser
   1. [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-  1. Brew (Mac) - '/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
-      1. Cakebrew - 'brew cask install cakebrew'
+  1. Brew (Mac) - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+      1. Cakebrew - `brew cask install cakebrew`
       1. git
           1. Set aliases (TBC)
       1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
@@ -25,7 +25,7 @@ Stuff I put on my laptop
       1. maven
   1. [Alfred](https://www.alfredapp.com/) (Mac)
       1. Disable Spotlight (Mac)
-      1. Enable Alfred (⌘-SPACE)
+      1. Enable Alfred (⌘-SPACE)
       1. Change theme
   1. [iTerm](https://www.iterm2.com/version3.html) (Mac only)
       1. Set the Preferences > Profile > Window size to 140 columns x 40 rows
