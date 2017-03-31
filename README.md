@@ -1,5 +1,5 @@
 # Things I Set First
-  1. Set up my public and private PGP Keys
+  1. Import my public and private keys
   1. Set Dark top bar (Mac)
   1. Set Date-Time display (Mac)
   1. Auto-hide programs bar (Mac)
@@ -7,8 +7,7 @@
   1. Caret-speed (Mac)
   1. Flux.io / Mac-equivalent
 
-
-# software
+# Software
 Stuff I put on my laptop
 
   1. [Chrome](https://www.google.co.uk/chrome/browser/desktop/)
