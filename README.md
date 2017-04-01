@@ -1,12 +1,18 @@
 # Things I Set First
   1. [Import my public and private SSH keys](https://www.debuntu.org/how-to-importexport-gpg-key-pair/)
       1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-  1. Set Dark top bar (Mac)
+  1. Set Graphite Appearance and Dark Menu Bar and Dock (Mac)
+    1. System Preferences > General > Appearance (Graphite) and check button below
   1. Set Date-Time display (Mac)
+    1. System Preferences > Date and Time > Clock > Show Day of the Week
   1. Auto-hide programs bar (Mac)
-  1. Add 2 more Desktops (Mac) - Three-finger swipe up and click the "+"
+    1. System Preferences > Dock > Size (smaller) and "Automatically Hide and Show the Dock"
+  1. Add 2 more Desktops (Mac)
+    1. Three-finger swipe up and click the "+" twice
   1. Increase the caret-speed (Mac)
+    1. System Preferences > Keyboard > Keyboard > "Delay Until Repeat" (move to "short")
   1. Flux.io / Mac-equivalent
+    1. System Preferences > Displays > Night Shift > Sunset to Sunrise (You need Location Services turned on)
   1. Set different pictures for each desktop
 
 # Software
