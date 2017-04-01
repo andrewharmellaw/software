@@ -2,17 +2,17 @@
   1. [Import my public and private SSH keys](https://www.debuntu.org/how-to-importexport-gpg-key-pair/)
       1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
   1. Set Graphite Appearance and Dark Menu Bar and Dock (Mac)
-    1. System Preferences > General > Appearance (Graphite) and check button below
+      1. System Preferences > General > Appearance (Graphite) and check button below
   1. Set Date-Time display (Mac)
-    1. System Preferences > Date and Time > Clock > Show Day of the Week
+      1. System Preferences > Date and Time > Clock > Show Day of the Week
   1. Auto-hide programs bar (Mac)
-    1. System Preferences > Dock > Size (smaller) and "Automatically Hide and Show the Dock"
+      1. System Preferences > Dock > Size (smaller) and "Automatically Hide and Show the Dock"
   1. Add 2 more Desktops (Mac)
-    1. Three-finger swipe up and click the "+" twice
+      1. Three-finger swipe up and click the "+" twice
   1. Increase the caret-speed (Mac)
-    1. System Preferences > Keyboard > Keyboard > "Delay Until Repeat" (move to "short")
+      1. System Preferences > Keyboard > Keyboard > "Delay Until Repeat" (move to "short")
   1. Flux.io / Mac-equivalent
-    1. System Preferences > Displays > Night Shift > Sunset to Sunrise (You need Location Services turned on)
+      1. System Preferences > Displays > Night Shift > Sunset to Sunrise (You need Location Services turned on)
   1. Set different pictures for each desktop
 
 # Software
@@ -31,11 +31,13 @@ Stuff I put on my laptop
       1. gradle
       1. maven
   1. [Alfred](https://www.alfredapp.com/) (Mac)
-      1. Disable Spotlight (Mac)
-      1. Enable Alfred (⌘-SPACE)
-      1. Change theme
+      1. Disable Spotlight (Mac) - System Preferences > Spotlight > Keyboard Shortcuts > uncheck "Show Spotlight Search"
+      1. Enable Alfred shortcutal (⌘-SPACE)
+      1. Change theme - Alfred Preferences > Appearance > Alfred Dark
   1. [iTerm](https://www.iterm2.com/version3.html) (Mac only)
+      1. Preferences > Closing > uncheck all
       1. Set the Preferences > Profile > Window size to 140 columns x 40 rows
+      1. Set the Preferences > Profile > Transparency as per taste
   1. [OhMyZSH](http://ohmyz.sh/)
       1. [Enable Agnoster theme](https://github.com/robbyrussell/oh-my-zsh)
           1. Requires [Power-line patched fonts be installed](https://github.com/powerline/fonts)
