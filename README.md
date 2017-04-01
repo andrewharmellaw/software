@@ -23,13 +23,8 @@ Stuff I put on my laptop
       1. Enable diasble Extensions as appropriate
       1. Make Chrome the default browser
   1. [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-  1. Brew (Mac) - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-      1. Cakebrew - `brew cask install cakebrew`
-      1. git
-          1. Set aliases by taking the .gitignore in this repo
-      1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
-      1. gradle
-      1. maven
+  1. [GPGSuite](https://gpgtools.org/)
+      1. Import my public and private GPG keys
   1. [Alfred](https://www.alfredapp.com/) (Mac)
       1. Disable Spotlight (Mac) - System Preferences > Spotlight > Keyboard Shortcuts > uncheck "Show Spotlight Search"
       1. Enable Alfred shortcutal (⌘-SPACE)
@@ -42,8 +37,13 @@ Stuff I put on my laptop
       1. Enable Agnoster theme - edit `~/.zshrc` and set `ZSH_THEME="agnoster"` 
           1. Requires [Power-line patched fonts be installed](https://github.com/powerline/fonts)
           1. And your iTerm profile set up to use 12 point Menlo LG S Regular for Powerline (for both Font and non-ASCII Font)
-  1. [GPGSuite](https://gpgtools.org/)
-      1. Import my public and private GPG keys
+  1. Brew (Mac) - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+      1. Cakebrew - `brew cask install cakebrew`
+      1. git 
+          1. Set aliases by taking the .gitignore in this repo
+      1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
+      1. gradle
+      1. maven
   1. [Evernote](https://evernote.com/download/)
       1. Enable access for this computer
       1. Sync
