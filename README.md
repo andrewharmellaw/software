@@ -38,7 +38,7 @@ Stuff I put on my laptop
       1. Preferences > Closing > uncheck all
       1. Set the Preferences > Profile > Window size to 140 columns x 40 rows
       1. Set the Preferences > Profile > Transparency as per taste
-  1. [OhMyZSH](http://ohmyz.sh/)
+  1. OhMyZSH - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` (*requires git*)
       1. [Enable Agnoster theme](https://github.com/robbyrussell/oh-my-zsh)
           1. Requires [Power-line patched fonts be installed](https://github.com/powerline/fonts)
           1. And your iTerm profile set up to use 12 point Menlo LG S Regular for Powerline (for both Font and non-ASCII Font)
