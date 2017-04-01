@@ -1,4 +1,5 @@
 # Things I Set First
+  1. [Show hidden files and folders](http://www.macworld.co.uk/how-to/mac-software/how-show-hidden-files-in-mac-os-x-finder-funter-macos-sierra-3520878/)
   1. [Import my public and private SSH keys](https://www.debuntu.org/how-to-importexport-gpg-key-pair/)
       1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
   1. Set Graphite Appearance and Dark Menu Bar and Dock (Mac)
