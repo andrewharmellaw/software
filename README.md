@@ -53,7 +53,7 @@
   1. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
       1. Enable licence via Jetbrains UID / password
       1. Enable / Disable plugins
-  1. Outlook / Powerpoint / Excel / Word
+  1. [Office 365 (Outlook / Powerpoint / Excel / Word)](https://support.office.com/en-us/article/Download-and-install-or-reinstall-Office-365-or-Office-2016-on-your-PC-or-Mac-4414eaaf-0478-48be-9c42-23adc4716658)
   1. [Slack](https://slack.com/downloads/osx)
       1. Login to all channels
   1. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
