@@ -58,7 +58,7 @@
       1. Login to all channels
   1. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
   1. [Skype for Business](https://www.microsoft.com/en-gb/download/details.aspx?id=49440)
-  1. Cisco VPN (or alt)
+  1. [OpenConnect VPN](http://www.infradead.org/openconnect/)
   1. Tunnelblick
   1. [Tomighty](http://tomighty.org/)
   1. [Sublime Text](https://www.sublimetext.com/download)
