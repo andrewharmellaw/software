@@ -41,6 +41,8 @@
       1. git 
           1. Set aliases by taking the .gitignore in this repo
       1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
+      1. openconnect
+          1. Plus the [GUI](https://github.com/openconnect/openconnect-gui/releases)
       1. gradle
       1. maven
   1. [Evernote](https://evernote.com/download/)
@@ -58,8 +60,7 @@
       1. Login to all channels
   1. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
   1. [Skype for Business](https://www.microsoft.com/en-gb/download/details.aspx?id=49440)
-  1. [OpenConnect VPN](http://www.infradead.org/openconnect/)
-  1. Tunnelblick
+  1. [Tunnelblick](https://tunnelblick.net/)
   1. [Tomighty](http://tomighty.org/)
   1. [Sublime Text](https://www.sublimetext.com/download)
   1. [Macdown](https://macdown.uranusjr.com/)
