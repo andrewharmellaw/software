@@ -15,6 +15,8 @@
   1. Flux.io / Mac-equivalent
       1. System Preferences > Displays > Night Shift > Sunset to Sunrise (You need Location Services turned on)
   1. Set different pictures for each desktop
+  1. Turn on FileVault
+      1. System Preferences > Security and Privacy > FileVault > Turn On...
 
 # Software
   1. [Chrome](https://www.google.co.uk/chrome/browser/desktop/)
@@ -64,4 +66,5 @@
   1. [Tomighty](http://tomighty.org/)
   1. [Sublime Text](https://www.sublimetext.com/download)
   1. [Macdown](https://macdown.uranusjr.com/)
+  1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   
