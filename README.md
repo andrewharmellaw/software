@@ -55,14 +55,10 @@
   1. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
       1. Enable licence via Jetbrains UID / password
       1. Enable / Disable plugins
-  1. [Office 365 (Outlook / Powerpoint / Excel / Word)](https://support.office.com/en-us/article/Download-and-install-or-reinstall-Office-365-or-Office-2016-on-your-PC-or-Mac-4414eaaf-0478-48be-9c42-23adc4716658)
   1. [Slack](https://slack.com/downloads/osx)
       1. Login to all channels
   1. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
-  1. [Skype for Business](https://www.microsoft.com/en-gb/download/details.aspx?id=49440)
-  1. [Tunnelblick](https://tunnelblick.net/)
   1. [Tomighty](http://tomighty.org/)
   1. [Sublime Text](https://www.sublimetext.com/download)
   1. [Macdown](https://macdown.uranusjr.com/)
   1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-  
