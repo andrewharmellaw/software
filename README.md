@@ -34,19 +34,17 @@
       1. Preferences > Closing > uncheck all
       1. Set the Preferences > Profile > Window size to 140 columns x 40 rows
       1. Set the Preferences > Profile > Transparency as per taste
-  1. OhMyZSH - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` (*requires git*)
-      1. Enable Agnoster theme - edit `~/.zshrc` and set `ZSH_THEME="agnoster"` 
-          1. Requires [Power-line patched fonts be installed](https://github.com/powerline/fonts)
-          1. And your iTerm profile set up to use 12 point Menlo LG S Regular for Powerline (for both Font and non-ASCII Font)
   1. Brew (Mac) - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
       1. Cakebrew - `brew cask install cakebrew`
       1. git 
           1. Set aliases by taking the .gitignore in this repo
       1. [Java JDK](https://forum.shakacode.com/t/install-java-1-8-on-mac-os-el-capitan/389)
-      1. openconnect
-          1. Plus the [GUI](https://github.com/openconnect/openconnect-gui/releases)
       1. gradle
       1. maven
+  1. OhMyZSH - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` (*requires git*)
+      1. Enable Agnoster theme - edit `~/.zshrc` and set `ZSH_THEME="agnoster"` 
+          1. Requires [Power-line patched fonts be installed](https://github.com/powerline/fonts)
+          1. And your iTerm profile set up to use 12 point Menlo LG S Regular for Powerline (for both Font and non-ASCII Font)
   1. [Evernote](https://evernote.com/download/)
       1. Enable access for this computer
       1. Sync
