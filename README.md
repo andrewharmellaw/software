@@ -62,3 +62,4 @@
   1. [Sublime Text](https://www.sublimetext.com/download)
   1. [Macdown](https://macdown.uranusjr.com/)
   1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  1. [Ruby](https://gorails.com/setup/osx/10.13-high-sierra) (via rbenv)
