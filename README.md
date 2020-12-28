@@ -2,21 +2,13 @@
   1. [Show hidden files and folders](http://www.macworld.co.uk/how-to/mac-software/how-show-hidden-files-in-mac-os-x-finder-funter-macos-sierra-3520878/)
   1. Import my public and private SSH keys - just create `~\.ssh` and copy them in
       1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-  1. Set Graphite Appearance and Dark Menu Bar and Dock (Mac)
-      1. System Preferences > General > Appearance (Graphite) and check button below
   1. Set Date-Time display (Mac)
       1. System Preferences > Date and Time > Clock > Show Day of the Week
   1. Auto-hide programs bar (Mac)
       1. System Preferences > Dock > Size (smaller) and "Automatically Hide and Show the Dock"
   1. Add 2 more Desktops (Mac)
       1. Three-finger swipe up and click the "+" twice
-  1. Increase the caret-speed (Mac)
-      1. System Preferences > Keyboard > Keyboard > "Delay Until Repeat" (move to "short")
-  1. Flux.io / Mac-equivalent
-      1. System Preferences > Displays > Night Shift > Sunset to Sunrise (You need Location Services turned on)
   1. Set different pictures for each desktop
-  1. Turn on FileVault
-      1. System Preferences > Security and Privacy > FileVault > Turn On...
 
 # Software
   1. [Chrome](https://www.google.co.uk/chrome/browser/desktop/)
