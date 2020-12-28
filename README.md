@@ -4,6 +4,8 @@
       1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
   1. Set Date-Time display (Mac)
       1. System Preferences > Date and Time > Clock > Show Day of the Week
+  1. Show remaining battery percentage (Mac)
+      1. CTRL-click on the battery icon > "Show percentage"
   1. Auto-hide programs bar (Mac)
       1. System Preferences > Dock > Size (smaller) and "Automatically Hide and Show the Dock"
   1. Add 2 more Desktops (Mac)
