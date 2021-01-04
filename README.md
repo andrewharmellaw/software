@@ -1,16 +1,14 @@
 # Things I set first
-  1. [Show hidden files and folders](http://www.macworld.co.uk/how-to/mac-software/how-show-hidden-files-in-mac-os-x-finder-funter-macos-sierra-3520878/)
   1. Import my public and private SSH keys - just create `~\.ssh` and copy them in
       1. [Set up ssh-agent to prevent having to keep typing the same pesky passwords](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
   1. Set Date-Time display (Mac)
       1. System Preferences > Date and Time > Clock > Show Day of the Week
-  1. Show remaining battery percentage (Mac)
-      1. CTRL-click on the battery icon > "Show percentage"
   1. Auto-hide programs bar (Mac)
       1. System Preferences > Dock > Size (smaller) and "Automatically Hide and Show the Dock"
-  1. Add 2 more Desktops (Mac)
+  1. Add 3 more Desktops (Mac)
       1. Three-finger swipe up and click the "+" twice
-  1. Set different pictures for each desktop
+  1. Set my User picture
+      1. Open Users & Groups. Drag the pic (of Nemesis from this repo)
 
 # Software
   1. [Chrome](https://www.google.co.uk/chrome/browser/desktop/)
@@ -51,9 +49,7 @@
       1. Enable / Disable plugins
   1. [Slack](https://slack.com/downloads/osx)
       1. Login to all channels
-  1. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
   1. [Tomighty](http://tomighty.org/)
   1. [Sublime Text](https://www.sublimetext.com/download)
   1. [Macdown](https://macdown.uranusjr.com/)
-  1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   1. [Ruby](https://gorails.com/setup/osx/10.13-high-sierra) (via rbenv)
